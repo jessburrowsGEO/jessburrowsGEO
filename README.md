@@ -26,7 +26,7 @@ I'm developing the technical skills needed to analyse satellite imagery and geos
 
 ## 🚀 Current Projects
 
-- 🌊 Freshwater Monitoring in QLD
+- 🌊 Moreton Island Freshwater Monitoring
 - 🛰 Digital Earth Australia
 - 🐍 Python for Earth Observation
 - 🗺 QGIS Portfolio
