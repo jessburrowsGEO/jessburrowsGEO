@@ -56,9 +56,9 @@ Investigated the relationship between monthly rainfall and surface water extent 
 *   **The Problem:** Remote island communities rely on fractured granite aquifers and ephemeral catchments which are difficult to monitor on the ground.
 *   **The Tech:** Utilised a Python workflow in the **Digital Earth Australia (DEA) Sandbox** using **Sentinel-2 Analysis Ready Data (ARD)**. 
 *   **The Analysis:** Calculated **MNDWI** (Modified Normalized Difference Water Index) to delineate water bodies and performed temporal correlation analysis with BOM rainfall data.
-*   **The Insight:** Identified a clear lagged correlation in managed systems (Horn Island Dam) but highlighted critical detection challenges in tropical ephemeral systems due to cloud cover and vegetation—paving the way for future research into AI-driven "cloud-masking" solutions.
+*   **The Insight:** Identified a clear lagged correlation in managed systems (Horn Island Dam) but highlighted critical detection challenges in tropical ephemeral systems due to cloud cover and vegetation.
 
-`Python` `Digital Earth Australia` `Remote Sensing` `Water Resource Management`
+`Python` `Digital Earth Australia` `Remote Sensing` `Water Resource Management` `GIS`
 
 ---
 
