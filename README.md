@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm Jess Burrows
+# Hiya! 👋 I'm Jess
 
 🌏 Environmental Science Postgraduate Student at the University of New England (Australia)
 
