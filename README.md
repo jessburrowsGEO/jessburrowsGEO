@@ -8,19 +8,19 @@ I'm passionate about using Earth Observation, GIS and remote sensing to understa
 
 ## 🌊 Current Interests
 
-- 🛰 Earth Observation
+- 🛰 Earth Observation (AI use) 
 - 🌏 Remote Sensing
 - 🌿 GIS
 - 🐍 Python
 - 🌊 Coastal Geomorphology
 - 🌺 Island Ecosystems
 - 📈 Environmental Data Science
-
+- 📈 Time-series Analysis and Forecasting 
 ---
 
 ## 🎯 My Goal
 
-I'm developing the technical skills needed to analyse satellite imagery and geospatial data to support coastal management, environmental monitoring and ocean health.
+I'm developing advanced EO and AI workflows to support coastal resilience and ocean health. My current focus is building a robust technical foundation for future research into transformative environmental monitoring solutions.
 
 ---
 
@@ -41,6 +41,8 @@ I'm developing the technical skills needed to analyse satellite imagery and geos
 - QGIS
 - Jupyter Notebooks
 - Digital Earth Australia
+- Landsat and Sentinel Archives
+- Machine Learning
 - Google Earth Engine *(coming soon!)*
 
 ---
