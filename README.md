@@ -1,6 +1,6 @@
 # Hiya! 👋 I'm Jess
 
-🌏 Environmental Science Postgraduate Student at the University of New England (Australia)
+🌏 Geologist & Environmental Science Postgraduate Student at the University of New England (Australia)
 
 I'm passionate about using Earth Observation, GIS and remote sensing to understand our changing planet.
 
