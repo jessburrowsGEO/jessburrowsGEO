@@ -20,7 +20,7 @@ I'm passionate about using Earth Observation, GIS and remote sensing to understa
 
 ## 🎯 My Goal
 
-I'm developing advanced EO and AI workflows to support coastal resilience and ocean health. My current focus is building a robust technical foundation for future research into transformative environmental monitoring solutions.
+I'm developing advanced EO and AI workflows to unpack natural phenomena and help provide solutions relating to natural disaster management, water security, coastal resilience and ocean health. My current focus is building a robust technical foundation for future research into transformative environmental monitoring solutions.
 
 ---
 
