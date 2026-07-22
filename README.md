@@ -14,7 +14,6 @@ I'm passionate about using Earth Observation, GIS and remote sensing to understa
 - 🐍 Python
 - 🌊 Coastal Geomorphology
 - 🌺 Island Ecosystems
-- 📈 Environmental Data Science
 - 📈 Time-series Analysis and Forecasting 
 ---
 
