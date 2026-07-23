@@ -25,7 +25,7 @@ I'm developing advanced EO and AI workflows to unpack natural phenomena and help
 
 ## 🚀 Current Projects
 
-- 🌊 Moreton Island Freshwater Monitoring
+- 🌊 Torres Strait Island Freshwater Monitoring
 - 🛰 Digital Earth Australia
 - 🐍 Python for Earth Observation
 - 🗺 QGIS Portfolio
